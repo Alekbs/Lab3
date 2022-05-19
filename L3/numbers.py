@@ -1,0 +1,7 @@
+a = int(input("Enter the 4 numbers \n "))
+b = int(input(" "))
+c = int(input(" "))
+d = int(input(" "))
+sum1 = (a + b)
+sum2 = (c + d)
+print("(", a, "+", b, ") / (", c, "+", d, ") =", "%.2f" %(sum1 / sum2))
